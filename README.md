@@ -1,4 +1,4 @@
-# Clothes Segmentation.
+# Clothes Segmentation Lab
 
 Please see each experiment to read my results.
 
